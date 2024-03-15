@@ -1,0 +1,17 @@
+.Name {
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+    margin: auto;
+    border-radius: 20px;
+}
+img{
+    border-radius: 50% 0% 50% 0%;
+    border: 2px solid white;
+}
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
